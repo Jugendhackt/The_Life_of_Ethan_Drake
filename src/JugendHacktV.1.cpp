@@ -67,7 +67,7 @@ int main() {
 				sleep(w);
 				cout << endl << endl;
 			}
-			if (tempId == "5.1.1.1"||tempId == "5.1.1.5"||tempId == "5.1.5.1"||tempId == "5.1.5.5"||tempId == "5.5.5.5"||tempId == "5.5.1.5"){
+			if (tempId == "5.1.1.1"||tempId == "5.1.1.5"||tempId == "5.1.5.1"||tempId == "5.1.5.5"||tempId == "5.5.5.5"||tempId == "5.5.1.5"||tempId == "5.5.1.1"){
 				cout << sit[x].beschrieb<< endl;
 				sleep(w);
 				cout << endl << endl;
@@ -134,10 +134,13 @@ int main() {
 			if(temp == 'J' || temp == 'j'){
 				tempId = sit[x].next_id_ja;
 				sleep(w);
+				continue;
 			}
 			else if(temp == 'N' || temp == 'n'){
 				tempId = sit[x].next_id_nein;
 				sleep(w);
+				continue;
+
 			}
 			else{
 				cout << "Du hast etwas falsches eingegeben" << endl;
