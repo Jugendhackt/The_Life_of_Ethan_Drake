@@ -6,19 +6,19 @@ Möchtest du zu Hause bleiben?
 1.1
 ---
 1.0
-Du bleibst Zuhause und machst deiner Familie etwas zu Essen.
+Du bleibst zu Hause und machst deiner Familie etwas zu Essen.
 Möchtest du Fleisch machen? Sonst hat es nur noch Spagetti.
 1.1.1
 1.0.0
 ---
 1.1
-Du gehst mit deiner Familie in eine Shopping Mall. Du wartest mit deinem Sohn Leon ausserhalb eines Kleidungsladen.
-Möchtest du mit deiner Frau mitgehen? Leon würde draussen warten.
+Du gehst mit deiner Familie in eine Shopping Mall. Du wartest mit deinem Sohn Leon außerhalb eines Kleidungsladen.
+Möchtest du mit deiner Frau mitgehen? Leon würde draußen warten.
 1.1.0
 1.0.1
 ---
 1.0.0
-Du kochst deine Spagetti und sie schmecken grossartig. 
+Du kochst deine Spagetti und sie schmecken großartig. 
 Möchtest du nun die Kinder ins Bett bringen? Andernfalls würdet ihr noch einen Film schauen.
 1.0.0.2
 1.0.0.0
@@ -36,7 +36,7 @@ Willst du ihn vom Herd wegreissen?
 1.1.1.0
 ---
 1.1.0
-Du folgst deiner Frau und schaust ab und zu auf Leon. Nach einiger Zeit kannst du Leon nicht mehr draussen sehen. 
+Du folgst deiner Frau und schaust ab und zu auf Leon. Nach einiger Zeit kannst du Leon nicht mehr draußen sehen. 
 Willst du ihn suchen?
 1.1.0.1
 1.1.0.0
@@ -79,7 +79,7 @@ Willst du dich ausdrücklich entschuldigen?
 ---
 1.0.0.2
 Deine Frau ist froh, dass du die Kinder ins Bett gebracht hast. Nach paar Wochen stirbt Leon leider an einer Lebensmittelvergiftung.
-	-Übrigens kennst du schon Jugend Hackt?
+	-Übrigens kennst du schon Jugend hackt?
 5
 5
 ---
@@ -120,13 +120,13 @@ Leon geht mit vollem Bauch ins Bett. Leider stirbt er einige Tage später an Sal
 5
 ---
 5
-Du und deine Familie seid an der Beerdigung von Leon. Deine Frau weint ihre Seele aus  dem Leib. 
+Du und deine Familie seid an der Beerdigung von Leon. Deine Frau weint ihre Seele aus dem Leib. 
 Willst du zu ihr hingehen und sie umarmen und trösten?
 5.1
 5.5
 ---
 5.1
-Du gehst auf sie zu und versuchst sie zu umarmen. Sie stösst dich weg. “  Du bist Schuld an seinem Tod. Hätte ich mich schonfrüher von dir getrennt, dann wäre er noch am leben. Geh weg ich will dich nie wieder sehen.” Geschockt stolperst du zurück. Du trennst dich von mir?! Das kannst du nicht tun und ich bin nicht schuld an seinem Tod. Du brauchst nur Jemanden dem du die Schuld geben kannst. Gutes Vorbild für unsere Tochter mach weiter so.” 
+Du gehst auf sie zu und versuchst sie zu umarmen. Sie stößt dich weg. “  Du bist Schuld an seinem Tod. Hätte ich mich schon früher von dir getrennt, dann wäre er noch am Leben. Geh weg ich will dich nie wieder sehen.” Geschockt stolperst du zurück. Du trennst dich von mir?! Das kannst du nicht tun und ich bin nicht schuld an seinem Tod. Du brauchst nur jemanden dem du die Schuld geben kannst. Gutes Vorbild für unsere Tochter mach weiter so.” 
 Küsst du deine Tochter noch zum Abschied?
 5.1.1
 5.1.5
@@ -144,7 +144,7 @@ Gibst du deiner Ex-Frau die Autoschlüssel?
 5.1.1.5
 ---
 5.1.5
-Du drehst dich um als du hörst wie deine Tochter nach dir schreit: “Papa! Geh nicht” Du hörst wie sie anfängt bitter zu weinen. Du ignorierst sie, denn deine Wut und Trauer ist zu gross. “Du hast nicht einmal den Anstand deiner Tochter tschüss zu sagen?! Wie tief bist du gesunken?!” Weitere Wut brodelt in dir auf. Du zerstörst Blumenbeete auf dem Weg. Du merkst das du noch den Schlüssel vom Auto hast. 
+Du drehst dich um als du hörst wie deine Tochter nach dir schreit: “Papa! Geh nicht” Du hörst wie sie anfängt bitter zu weinen. Du ignorierst sie, denn deine Wut und Trauer ist zu groß. “Du hast nicht einmal den Anstand deiner Tochter tschüss zu sagen?! Wie tief bist du gesunken?!” Weitere Wut brodelt in dir auf. Du zerstörst Blumenbeete auf dem Weg. Du merkst das du noch den Schlüssel vom Auto hast. 
 Schmeisst du ihn so auf den Weg, dass deine Ex-Frau ihn ganz sicher findet?
 5.1.5.1
 5.1.5.5
@@ -162,7 +162,7 @@ Willst du deinen Freunden schreiben, dass du für etwas länger verschwindest?
 5.5.5.5
 ---
 5.1.1.1
-Du wirfst deiner Ex-Frau die Autoschlüssel zu. Dann drehst du dich um, um zum Bus zu laufen. Du zerstörst ein paar Blumenbeete um dich ein wenig zu beruhigen. An der Bushaltestelle gehst du in den Bus rein. Du setzt dich auf einen freien Sitz. Du bist im Bus der zum Bahnhof führt. Bei der nächsten Station steigt ein älterer mann ein und setzt sich neben dich. Du fängst eine Konversation mit ihm an und schnell ist die Zeit um und der Bus stoppt um dich rauszulassen.
+Du wirfst deiner Ex-Frau die Autoschlüssel zu. Dann drehst du dich um, um zum Bus zu laufen. Du zerstörst ein paar Blumenbeete um dich ein wenig zu beruhigen. An der Bushaltestelle steigst du in einen Bus ein. Du setzt dich auf einen freien Sitz. Du bist im Bus der zum Bahnhof führt. Bei der nächsten Station steigt ein älterer mann ein und setzt sich neben dich. Du fängst eine Konversation mit ihm an und schnell ist die Zeit um und der Bus stoppt um dich rauszulassen.
 
 
 
@@ -174,25 +174,25 @@ Asozial wie du auch bist, gibst du deiner Frau die Autoschlüssel nicht und gehs
 
 ---
 5.1.5.1
-Du schmeisst ihn mitten auf den Weg. Leute schauen dichotomisch an. Du läufst zum Bus der zum Bahnhof fährt. Als er kommt steigst du ein und setzt dich auf einen freien Platz. Aber so das auch ja niemand neben dich setzt. Als du bim Bahnhof aussteigst bist du froh endlich weggekommen zu sein von deiner Frau.
+Du schmeißt ihn mitten auf den Weg. Leute schauen dich komisch an. Du läufst zum Bus der zum Bahnhof fährt. Als er kommt steigst du ein und setzt dich auf einen freien Platz. Aber so das auch ja niemand neben dich setzt. Als du bim Bahnhof aussteigst bist du froh endlich weggekommen zu sein von deiner Frau.
 
 
 
 ---
 5.1.5.5
-Du behältst die Schlüssel und grinst, weil du merkst, dass du eigentlich froh bist deine Frau los zu sein. Mit dem Auto fährst du zum Bahnhof, wo du dein Auto so demolierst, dass man ihn ganz sicher nicht mehr benutzen kann.
+Du behältst die Schlüssel und grinst, weil du merkst, dass du eigentlich froh bist deine Frau los zu sein. Mit dem Auto fährst du zum Bahnhof, wo du dein Auto so demolierst, dass man es ganz sicher nicht mehr benutzen kann.
 
 
 
 ---
 5.5.1.1
-Du bleibst, aber irgendein Trauernder hat die Polizei gerufen, die nun eintrifft. Du wirst verhaftet aber da du dich davor gewehrt hast, wurde dir ins Bein geschossen. Die Polizisten halten es aber nicht für nötig, eine Wunde zu heilen. Du stirbst an einer Blutvergiftung, aber du bist froh, denn es ist besser als eine Geldstrafe zahlen oder ein paar Monate im Gefängnis zu verbringen (Dies war dein letzter Gedanke, bevor du starbst.)
+Du bleibst, aber irgendein Trauernder hat die Polizei gerufen, die nun eintrifft. Du wirst verhaftet, aber da du dich davor gewehrt hast, wurde dir ins Bein geschossen. Die Polizisten halten es nicht für nötig, deine Wunde zu heilen. Du stirbst an einer Blutvergiftung, aber du bist froh, denn es ist besser als eine Geldstrafe zahlen oder ein paar Monate im Gefängnis zu verbringen (Dies war dein letzter Gedanke, bevor du starbst.)
 
 
 
 ---
 5.5.1.5
-Du hast überhaupt keine Lust sich bei deiner Ex-Frau zu entschuldigen und fährst nun zum Bahnhof um zu verschwinden. Auf dem Weg dorthin siehst du Polizeiwagen und bist froh nicht am Friedhof zu sein.
+Du hast überhaupt keine Lust dich bei deiner Ex-Frau zu entschuldigen und fährst nun zum Bahnhof um zu verschwinden. Auf dem Weg dorthin siehst du Polizeiwagen und bist froh nicht am Friedhof zu sein.
 
 
 
@@ -204,12 +204,12 @@ Du hast überhaupt keine Lust sich bei deiner Ex-Frau zu entschuldigen und fähr
 
 ---
 5.5.5.5
-Du schreibst deinen Freunden nicht, denn gerade liegen deine nerven blank. Der einzige weg den du jetzt siehst ist zu verschwinden und du steigst in den Bus ein der dich zum Bahnhof führt.
+Du schreibst deinen Freunden nicht, denn gerade liegen deine Nerven blank. Der einzige Weg den du jetzt siehst ist zu verschwinden und du steigst in den Bus ein, der dich zum Bahnhof führt.
 
 
 
 ---
 0
-Und schon ist die Geschichte vorbei. Hoffentlich Wird dein Leben nicht so traurig wie das von Ethan
-Und wenn du wieder einmal rückschläge kassieren musst, denk daran:
+Und schon ist die Geschichte vorbei. Hoffentlich wird dein Leben nicht so traurig wie das von Ethan
+Und wenn du wieder einmal Rückschläge kassieren musst, denk daran:
 
